@@ -10,13 +10,14 @@
     padding: 25px;
   }
   /* centralização da ultima categoria*/
-  .centralizar{
+.centralizar{
  margin-left: 40%;
- padding: 0px;
-width:  100%;
+ padding-top: 10px;
+ padding: 10px;
+ 
   }
 /*Configuração da tag figure e  figurecaption*/
-  figure{
+ figure{
     position: relative;
 }
 figure figcaption{
@@ -41,4 +42,15 @@ figure:hover figcaption{
 .btn-conf{
     text-decoration:none;
     margin-top: 50px;
+}
+/** Div de efeito 3d **/
+div#efeito{
+    
+    box-shadow:0px 0px 10px rgba(0,0,0,0.5);
+    padding-top: 20px;
+	
+}
+body{
+    width: auto;
+    height: auto;
 }
