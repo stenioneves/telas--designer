@@ -1,0 +1,17 @@
+ /* Remove o navbar's padrao margin-bottom e aredonda as bordas( borders) */ 
+ .navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+  
+  /* Adiciona cor cinza como  background  e define o padding para o footer */
+  footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+  }
+  /* centralização da ultima categoria*/
+  .centralizar{
+ margin-left: 40%;
+ padding: 0px;
+width:  100%;
+  }
